@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RAD_Assignment1
 {
-    public partial class Form1 : Form
+    public partial class AutoCenter : Form
     {
-        public Form1()
+        public AutoCenter()
         {
             InitializeComponent();
         }
