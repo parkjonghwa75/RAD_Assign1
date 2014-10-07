@@ -90,7 +90,7 @@ namespace RAD_Assignment1
             try
             {
                 basePriceDecimal = decimal.Parse(carSalesPriceTextBox.Text);
-                if (basePriceDecimal > 0)
+                if (basePriceDecimal > 0) 
                 {
 
                     try
